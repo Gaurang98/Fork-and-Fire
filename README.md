@@ -1,4 +1,5 @@
-# 🍕 Fork & Fire (https://fork-and-fire.vercel.app/)
+# 🍕 [Fork & Fire](https://fork-and-fire.vercel.app/)
+🔗 [Website](https://fork-and-fire.vercel.app/)
 
 A modern, responsive food delivery web application built with React.js, featuring a beautiful UI, smooth animations, and comprehensive functionality.
 
@@ -110,4 +111,4 @@ A modern, responsive food delivery web application built with React.js, featurin
 
 ---
 
-Made with by [Gaurang Agarwal](https://github.com/Gaurang98)
+Made by [Gaurang Agarwal](https://github.com/Gaurang98)
