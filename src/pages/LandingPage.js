@@ -309,10 +309,9 @@ function LandingPage() {
             <div className="testimonial-content">
               <p>"The food quality is outstanding and delivery is super fast. Fork & Fire has become my go-to for all meals!"</p>
               <div className="testimonial-author">
-                <img 
-                  src="https://images.unsplash.com/photo-1494790108755-2616b612b9f3?ixlib=rb-4.0.3&auto=format&fit=crop&w=100&q=80" 
-                  alt="Customer"
-                />
+                <div className="testimonial-avatar" title="Sarah Johnson">
+                  SJ
+                </div>
                 <div>
                   <h4>Sarah Johnson</h4>
                   <span>Regular Customer</span>
